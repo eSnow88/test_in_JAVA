@@ -1,3 +1,5 @@
+package ClasesyObjetos;
+
 public class Coche {
     String color;
     String marca;
